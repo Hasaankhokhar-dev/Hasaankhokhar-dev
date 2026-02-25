@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hasaan</h1>
-<h3 align="center">👨‍💻 Android developer dedicated to crafting high-quality, modern apps using best practices and clean architecture</h3>
+<h3 align="center">👨‍💻 Flutter developer dedicated to crafting high-quality, modern apps using best practices and clean architecture</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasaankhokhar-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hasaankhokhar-dev" /> </p>
 
-- 🔭 I’m currently working on **College Alert Application**
+- 🔭 I’m currently working on **ASL Pocket Sign App**
 
-- 🌱 I’m currently learning **Full Stack Android Development**
+- 🌱 I’m currently learning **Flutter Development**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/muhammad-hasaan-658362326](www.linkedin.com/in/muhammad-hasaan-658362326)
 
