@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Flutter Development**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/muhammad-hasaan-658362326](www.linkedin.com/in/muhammad-hasaan-658362326)
-
 - 📫 How to reach me **Muhammadhasaan071@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
