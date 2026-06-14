@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasaankhokhar-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hasaankhokhar-dev" /> </p>
 
 - 🔭 I’m currently working on **Medicine Reminder App**
-
-- 🌱 I’m currently learning **Flutter Development**
-
 - 📫 How to reach me **Muhammadhasaan071@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
